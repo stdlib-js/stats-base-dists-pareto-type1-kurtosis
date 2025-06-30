@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`ac4fe47`](https://github.com/stdlib-js/stdlib/commit/ac4fe47f88e13e3009a2c0e9cc11e0cf8faf88c1) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/kurtosis` [(#3972)](https://github.com/stdlib-js/stdlib/pull/3972) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
 -   [`4d79bde`](https://github.com/stdlib-js/stdlib/commit/4d79bde011701144a125ba35d58ed42f7ecc5961) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1` [(#5260)](https://github.com/stdlib-js/stdlib/pull/5260) _(by GK Bishnoi)_
 
