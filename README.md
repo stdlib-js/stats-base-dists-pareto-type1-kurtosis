@@ -69,7 +69,7 @@ for `α > 4` and `β > 0`. Otherwise, the kurtosis is not defined.
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-kurtosis@v0.2.3-esm/index.mjs';
 ```
 
 #### kurtosis( alpha, beta )
@@ -152,7 +152,7 @@ v = kurtosis( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-kurtosis@v0.2.3-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
